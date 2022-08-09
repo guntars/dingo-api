@@ -1,14 +1,3 @@
-Note: This is an official and reasonably maintained fork of the popular https://github.com/dingo/api repository by one of the maintainers of that project. The reason it was forked is due to broken integrations with CI tools such as travis (which can only be fixed by owner), and in general to be able to better support the project and ensure non-breaking updates.
-
-In order to move to this repo, you merely need to update your composer file. All the namespaces and other aspects of the project are the same. Example instructions are below, to use the latest version:
-
-```bash
-composer remove dingo/api
-composer require api-ecosystem-for-laravel/dingo-api
-```
-
-Please note, we do not actively maintain the Lumen support of this project. If you are still using Lumen, we recommend you migrate to Laravel.
-
 ---
 
 ![](https://cloud.githubusercontent.com/assets/829059/9216039/82be51cc-40f6-11e5-88f5-f0cbd07bcc39.png)

@@ -1,6 +1,6 @@
 {
-    "name": "ssswang/dingo-api",
-    "description": "A RESTful API package for the Laravel and Lumen frameworks.",
+    "name": "guntars/dingo-api",
+    "description": "A RESTful API package for the Laravel framework.",
     "keywords": [
         "api",
         "dingo",
@@ -14,7 +14,7 @@
     }],
     "require": {
         "php": "^8.0|^8.1",
-        "ssswang/blueprint": "^0.4.4",
+        "guntars/blueprint": "^0.4.4",
         "illuminate/routing": "^9.0",
         "illuminate/support": "^9.0",
         "league/fractal": "^0.20"
